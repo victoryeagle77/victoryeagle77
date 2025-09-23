@@ -39,6 +39,8 @@
 
 #### BOARD / DEVICE
 
-|DEVICE|APPLICATION|
-|------|-----------|
-|`ela`|iot|
+|DEVICE|DESCIPTION|APPLICATION|
+|------|----------|-----------|
+|`ela`|[Bluetooth IOT devices](https://elainnovation.com/beacon-bluetooth/)|domotic|
+|`esp`|[Microcontrollers chips and boards](https://www.espressif.com/)|domotic / gui / robotic|
+|`Raspberry`|Microcontroller|AI / domotic / robotic/ server|

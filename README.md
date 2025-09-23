@@ -3,8 +3,8 @@
 |LANGUAGES|DOMAIN|APPLICATION|
 |---------|------|-----------|
 |`Arduino`|Architecture|embedded / software|
-|`C`|Architecture|embedded / software / api / drivers / gui|
 |`ASM RISC-V`|Architecture|embedded / design|
+|`C`|Architecture|embedded / software / api / drivers / gui|
 |`VHDL`|Conception|embedded / design|
 |`JSON`|Database|software|
 |`SQLite`|Database|software|

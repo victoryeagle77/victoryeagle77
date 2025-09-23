@@ -8,11 +8,11 @@ Hi there 👋
 
 |SKILL|APPLICATION|
 |-----|-----------|
-|`Arduino`|embedded / software|
-|`C`|api / embedded / gui / software|
-|`C++`|api / gui / software|
-|`Java`|api / gui / software|
-|`RISC-V assembly`|embedded / software|
+|[`arduino`](https://docs.arduino.cc/language-reference/)|embedded / software|
+|`c`|api / embedded / gui / software|
+|`c++`|api / gui / software|
+|[`java`](https://www.java.com/fr/)|api / gui / software|
+|[`asm risc-v`](https://asm-docs.microagi.org/risc-v/riscv-asm.html)|embedded / software|
 |`Rust`|api / gui / software|
 |`VHDL`|embedded / design|
 
@@ -20,8 +20,8 @@ Hi there 👋
 
 |SKILL|APPLICATION|
 |-----|-----------|
-|`Bash`|software|
-|`Python`|software|
+|[`bash`](https://www.gnu.org/software/bash/manual/bash.html)|software|
+|[`python`](https://www.python.org/)|ai / software|
 
 #### WEB
 

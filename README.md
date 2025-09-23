@@ -1,5 +1,7 @@
 # PROFIL
 
+Hi there 👋
+
 ## IT LANGUAGES
 
 #### PROGRAMMING

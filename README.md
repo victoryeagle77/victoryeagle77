@@ -17,7 +17,7 @@
 |`Java`|api / gui / software|
 |`Rust`|api / gui / software|
 
-#### SCRIPTIING
+#### SCRIPTING
 
 |LANGUAGES|APPLICATION|
 |---------|-----------|

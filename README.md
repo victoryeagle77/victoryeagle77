@@ -21,7 +21,7 @@ Hi there 👋
 |SKILL|APPLICATION|
 |-----|-----------|
 |[`bash`](https://www.gnu.org/software/bash/manual/bash.html)|software|
-|[`python`](https://www.python.org/)|AI / software|
+|[`python`](https://www.python.org/)|AI / API / software|
 
 #### WEB
 

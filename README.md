@@ -1,29 +1,19 @@
 ## PROGRAMMING LANGUAGES
 
-#### ARCHITECTURE 
-|LANGUAGES|APPLICATION|
-|---------|-----------|
-|Arduino|Embedded Software|
-|C|Embedded Software / Driver / GUI|
-|C++|Software / API / GUI|
-|Java|Software / API / GUI|
-|RISC-V Assembly|Hardware-Embedded|
-|Rust|Software / API / GUI|
-|VHDL|Electronic Design|
-
-#### DATABASE
-
-- SQLite
-- MySQL
-
-#### WEB
-
-- HTML5
-- CSS3
-- Javascript
-- PHP
-
-#### SCRIPTING
-
-- Bash
-- Python
+|DOMAIN|LANGUAGES|APPLICATION|
+|------|---------|-----------|
+|**Architecture**|Arduino|embedded-software|
+|**Architecture**|C|embedded-software / software / api / drivers / gui|
+|**Architecture**|RISC-V Assembly|embedded-software / electronic-design|
+|**Conception**|VHDL|electronic-design|
+|**Database**|SQLite|
+|**Database**|JSON|
+|**Programmation**|C++|software / api / gui|
+|**Programmation**|Java|software / api / gui|
+|**Programmation**|Rust|software / api / gui|
+|**Web**|CSS|software / gui|
+|**Web**|HTML|software / gui|
+|**Web**|Javascript|software / gui|
+|**Web**|PHP|software / gui|
+|**Web**|Bash|software / api / gui|
+|**Web**|Python|software / api / gui|

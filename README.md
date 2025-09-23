@@ -13,7 +13,7 @@ Hi there 👋
 |[`c++`](https://isocpp.org/)|API / GUI / software|
 |[`java`](https://www.java.com/fr/)|api / gui / software|
 |[`asm risc-v`](https://asm-docs.microagi.org/risc-v/riscv-asm.html)|embedded / software|
-|`rust`|API / GUI / software|
+|[`rust`](https://www.rust-lang.org/fr)|API / GUI / software|
 |`vhdl`|embedded / design|
 
 #### SCRIPTING

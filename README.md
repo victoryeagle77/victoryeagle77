@@ -1,6 +1,6 @@
 ## IT LANGUAGES
 
-#### PROGRAMMATION
+#### PROGRAMMING
 
 |LANGUAGES|APPLICATION|
 |---------|-----------|

@@ -8,7 +8,7 @@
 |`C`|api / embedded / gui / software|
 |`C++`|api / gui / software|
 |`Java`|api / gui / software|
-|`RISC-V Assembly`|embedded / software|
+|`RISC-V assembly`|embedded / software|
 |`Rust`|api / gui / software|
 |`VHDL`|embedded / design|
 

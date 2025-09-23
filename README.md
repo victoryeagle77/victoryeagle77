@@ -28,9 +28,9 @@
 
 |LANGUAGES|APPLICATION|
 |---------|-----------|
-|`CSS`|Web|software / gui|
-|`HTML`|Web|software / gui|
-|`Javascript`|Web|software / gui|
-|`JSON`|Database|software|
-|`PHP`|Web|software|
-|`SQLite`|Database|software|
+|`CSS`|gui / software|
+|`HTML`|gui / software|
+|`Javascript`|api / gui / software|
+|`JSON`|software|
+|`PHP`|software|
+|`SQLite`|software|

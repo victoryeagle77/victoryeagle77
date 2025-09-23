@@ -1,17 +1,19 @@
-## Hi there 👋
+## WEB DEVELOPMENT
 
-## ⚡DEVELOPMENT
+- HTML5
+- CSS3
+- Javascript
+- PHP
 
-- WEB languages:
-  - HTML5
-  - CSS3
-  - Javascript
-  - PHP
+## ARCHITECTURE DEVELOPMENT
+- Arduino
+- C
+- C++
+- Java
+- RISC-V Assembley
+- Rust
 
-- Programming languages:
-  - C
-  - C++
-  - Java
-  - Python
-  - RISC-V Assembley
-  - Rust
+## SCRIPTING DEVELOPMENT
+
+- Bash
+- Python

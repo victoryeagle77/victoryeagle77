@@ -2,8 +2,8 @@
 
 #### PROGRAMMING
 
-|LANGUAGES|APPLICATION|
-|---------|-----------|
+|SKILL|APPLICATION|
+|-----|-----------|
 |`Arduino`|embedded / software|
 |`C`|api / embedded / gui / software|
 |`C++`|api / gui / software|
@@ -14,15 +14,15 @@
 
 #### SCRIPTING
 
-|LANGUAGES|APPLICATION|
-|---------|-----------|
+|SKILL|APPLICATION|
+|-----|-----------|
 |`Bash`|software|
 |`Python`|software|
 
 #### WEB
 
-|LANGUAGES|APPLICATION|
-|---------|-----------|
+|SKILL|APPLICATION|
+|-----|-----------|
 |`CSS`|gui / software|
 |`HTML`|gui / software|
 |`Javascript`|api / gui / software|
@@ -32,10 +32,10 @@
 
 ## HARDWARE
 
-#### DEVICE
+#### DEVICES
 
-|DEVICE|DESCIPTION|APPLICATION|
-|------|----------|-----------|
+|SKILL|DESCIPTION|APPLICATION|
+|-----|----------|-----------|
 |`ela`|[Bluetooth IOT devices](https://elainnovation.com/beacon-bluetooth/)|domotic|
 |`esp`|[Microcontrollers chips and boards](https://www.espressif.com/)|domotic / gui / robotic / server|
 |`raspberry`|[Microcomputers and microcontrollers](https://www.raspberrypi.com/)|domotic / gui / robotic / server|

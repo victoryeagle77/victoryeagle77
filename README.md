@@ -11,9 +11,9 @@
 |**Programmation**|C++|software / api / gui|
 |**Programmation**|Java|software / api / gui|
 |**Programmation**|Rust|software / api / gui|
-|**Web**|CSS|software / gui|
-|**Web**|HTML|software / gui|
+|**Web**|CSS|frontend / gui|
+|**Web**|HTML|frontend / gui|
 |**Web**|Javascript|software / gui|
-|**Web**|PHP|software / gui|
-|**Web**|Bash|software / api / gui|
-|**Web**|Python|software / api / gui|
+|**Web**|PHP|backend|
+|**Web**|Bash|software|
+|**Web**|Python|software|

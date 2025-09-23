@@ -30,9 +30,9 @@ Hi there 👋
 |`css`|GUI / software|
 |`html`|GUI / software|
 |`javascript`|API / GUI / software|
-|`json`|software|
+|[`json`](https://www.json.org/json-fr.html)|software|
 |`php`|software|
-|`sqlite`|software|
+|[`sqlite`](https://sqlite.org/)|software|
 
 ## HARDWARE
 

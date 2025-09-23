@@ -34,3 +34,11 @@
 |`JSON`|software|
 |`PHP`|software|
 |`SQLite`|software|
+
+## HARDWARE
+
+#### BOARD / DEVICE
+
+|DEVICE|APPLICATION|
+|------|-----------|
+|`ela`|iot|

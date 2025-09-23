@@ -10,7 +10,7 @@ Hi there 👋
 |-----|-----------|
 |[`arduino`](https://docs.arduino.cc/language-reference/)|embedded / software|
 |`c`|API / embedded / GUI / software|
-|`c++`|API / GUI / software|
+|[`c++`](https://isocpp.org/)|API / GUI / software|
 |[`java`](https://www.java.com/fr/)|api / gui / software|
 |[`asm risc-v`](https://asm-docs.microagi.org/risc-v/riscv-asm.html)|embedded / software|
 |`rust`|API / GUI / software|

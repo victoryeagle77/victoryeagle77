@@ -1,4 +1,6 @@
-#### ARCHITECTURE DEVELOPMENT
+## PROGRAMMING LANGUAGES
+
+#### ARCHITECTURE 
 - Arduino
 - C
 - C++
@@ -7,19 +9,19 @@
 - Rust
 - VHDL
 
-#### DATABASE DEVELOPMENT
+#### DATABASE
 
 - SQLite
 - MySQL
 
-#### WEB DEVELOPMENT
+#### WEB
 
 - HTML5
 - CSS3
 - Javascript
 - PHP
 
-#### SCRIPTING DEVELOPMENT
+#### SCRIPTING
 
 - Bash
 - Python

@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-### ⚡ Technologies
+## ⚡ Technologies
 
 - WEB languages:
   - HTML5

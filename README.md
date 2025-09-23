@@ -13,8 +13,8 @@ Hi there 👋
 |`c++`|api / gui / software|
 |[`java`](https://www.java.com/fr/)|api / gui / software|
 |[`asm risc-v`](https://asm-docs.microagi.org/risc-v/riscv-asm.html)|embedded / software|
-|`Rust`|api / gui / software|
-|`VHDL`|embedded / design|
+|`rust`|api / gui / software|
+|`vhdl`|embedded / design|
 
 #### SCRIPTING
 
@@ -27,12 +27,12 @@ Hi there 👋
 
 |SKILL|APPLICATION|
 |-----|-----------|
-|`CSS`|gui / software|
-|`HTML`|gui / software|
-|`Javascript`|api / gui / software|
-|`JSON`|software|
-|`PHP`|software|
-|`SQLite`|software|
+|`css`|gui / software|
+|`html`|gui / software|
+|`javascript`|api / gui / software|
+|`json`|software|
+|`php`|software|
+|`sqlite`|software|
 
 ## HARDWARE
 

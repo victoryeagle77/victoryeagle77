@@ -32,7 +32,7 @@
 
 ## HARDWARE
 
-#### DEVICES
+#### EQUIPMENT
 
 |SKILL|DESCIPTION|APPLICATION|
 |-----|----------|-----------|

@@ -5,7 +5,7 @@
 |LANGUAGES|APPLICATION|
 |---------|-----------|
 |`Arduino`|embedded / software|
-|`C`|api / driver / embedded / gui / software|
+|`C`|api / embedded / gui / software|
 |`C++`|api / gui / software|
 |`Java`|api / gui / software|
 |`RISC-V Assembly`|embedded / software|
@@ -38,7 +38,7 @@
 |------|----------|-----------|
 |`ela`|[Bluetooth IOT devices](https://elainnovation.com/beacon-bluetooth/)|domotic|
 |`esp`|[Microcontrollers chips and boards](https://www.espressif.com/)|domotic / gui / robotic / server|
-|`raspberry`|[Microcomputers and microcontrollers](https://www.raspberrypi.com/)|ai / domotic / gui / robotic / server|
+|`raspberry`|[Microcomputers and microcontrollers](https://www.raspberrypi.com/)|domotic / gui / robotic / server|
 |`simcom`|[Cellular processors](https://www.simcom.com/)|driver|
 |`sonoff`|[Zigbee IOT devices](https://sonoff.tech/fr-fr)|domotic|
 |`stm`|[Microcontrollers chips and boards](https://www.st.com/content/st_com/en.html)|domotic|

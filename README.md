@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-## ⚡ Technologies
+##⚡DEVELOPMENT
 
 - WEB languages:
   - HTML5
@@ -20,5 +20,9 @@ Here are some ideas to get you started:
   - PHP
 
 - Programming languages:
+  - C
+  - C++
+  - Java
+  - Python
   - RISC-V Assembley
-  - C / C++
+  - Rust

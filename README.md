@@ -39,6 +39,7 @@
 |`ela`|[Bluetooth IOT devices](https://elainnovation.com/beacon-bluetooth/)|domotic|
 |`esp`|[Microcontrollers chips and boards](https://www.espressif.com/)|domotic / gui / robotic / server|
 |`raspberry`|[Microcomputers and microcontrollers](https://www.raspberrypi.com/)|domotic / gui / robotic / server|
+|`microchip`|[Microcontrollers chips and boards](https://www.microchip.com/)|domotic / dsp|
 |`simcom`|[Cellular processors](https://www.simcom.com/)|driver|
 |`sonoff`|[Zigbee IOT devices](https://sonoff.tech/fr-fr)|domotic|
 |`stm`|[Microcontrollers chips and boards](https://www.st.com/content/st_com/en.html)|domotic|

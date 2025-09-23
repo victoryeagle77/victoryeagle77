@@ -1,19 +1,41 @@
 ## IT LANGUAGES
 
-|LANGUAGES|DOMAIN|APPLICATION|
-|---------|------|-----------|
-|`Arduino`|Architecture|embedded / software|
-|`ASM RISC-V`|Architecture|embedded / design|
-|`C`|Architecture|embedded / software / api / drivers / gui|
-|`VHDL`|Conception|embedded / design|
-|`JSON`|Database|software|
-|`SQLite`|Database|software|
-|`C++`|Programmation|software / api / gui|
-|`Java`|Programmation|software / api / gui|
-|`Rust`|Programmation|software / api / gui|
-|`Bash`|Scripting|software|
-|`Python`|Scripting|software|
+#### ARCHITECTURE / SYSTEM
+
+|LANGUAGES|APPLICATION|
+|---------|-----------|
+|`Arduino`|embedded / software|
+|`ASM RISC-V`|embedded / software|
+|`C`|api / driver / embedded / gui / software|
+
+#### CONCEPTION
+
+|LANGUAGES|APPLICATION|
+|---------|-----------|
+|`VHDL`|embedded / design|
+
+#### PROGRAMMATION
+
+|LANGUAGES|APPLICATION|
+|---------|-----------|
+|`C++`|api / gui / software|
+|`Java`|api / gui / software|
+|`Rust`|api / gui / software|
+
+#### SCRIPTIING
+
+|LANGUAGES|APPLICATION|
+|---------|-----------|
+|`Bash`|software|
+|`Python`|software|
+
+#### WEB
+
+|LANGUAGES|APPLICATION|
+|---------|-----------|
 |`CSS`|Web|software / gui|
 |`HTML`|Web|software / gui|
 |`Javascript`|Web|software / gui|
+|`JSON`|Database|software|
 |`PHP`|Web|software|
+|`SQLite`|Database|software|

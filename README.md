@@ -1,13 +1,15 @@
 ## PROGRAMMING LANGUAGES
 
 #### ARCHITECTURE 
-- Arduino
-- C
-- C++
-- Java
-- RISC-V Assembley
-- Rust
-- VHDL
+|LANGUAGES|APPLICATION|
+|---------|-----------|
+|Arduino|Embedded Software|
+|C|Embedded Software / Driver / GUI|
+|C++|Software / API / GUI|
+|Java|Software / API / GUI|
+|RISC-V Assembly|Hardware-Embedded|
+|Rust|Software / API / GUI|
+|VHDL|Electronic Design|
 
 #### DATABASE
 

@@ -5,13 +5,8 @@
 |LANGUAGES|APPLICATION|
 |---------|-----------|
 |`Arduino`|embedded / software|
-|`ASM RISC-V`|embedded / software|
 |`C`|api / driver / embedded / gui / software|
-
-#### CONCEPTION
-
-|LANGUAGES|APPLICATION|
-|---------|-----------|
+|`RISC-V Assembly`|embedded / software|
 |`VHDL`|embedded / design|
 
 #### PROGRAMMATION

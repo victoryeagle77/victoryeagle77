@@ -16,4 +16,4 @@
 |`CSS`|Web|software / gui|
 |`HTML`|Web|software / gui|
 |`Javascript`|Web|software / gui|
-|`PHP`|Web|backend|
+|`PHP`|Web|software|

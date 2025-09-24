@@ -26,12 +26,12 @@ Here are my interests and skills related to IT development, electronic design, a
 
 |DEVICE|DESCRIPTION|APPLICATION|
 |------|-----------|-----------|
-|`ela`|[Bluetooth IOT devices](https://elainnovation.com/beacon-bluetooth/)|domotic|
-|`esp`|[Microcontrollers chips and boards](https://www.espressif.com/)|domotic / GUI / robotic / server|
-|<img width="112" height="57" alt="image" src="https://github.com/user-attachments/assets/de73fa7c-1da3-4a02-ad24-b72585104d59"/>|[Raspberry](https://www.raspberrypi.com/) devices are microcomputers and microcontrollers|domotic / GUI / robotic / server|
-|`microchip`|[Microcontrollers chips and boards](https://www.microchip.com/)|domotic / DSP|
-|`simcom`|[Cellular processors](https://www.simcom.com/)|domotic / server|
-|`sonoff`|[Zigbee IOT devices](https://sonoff.tech/fr-fr)|domotic|
+|<img width="100" height="60" alt="image" src="https://github.com/user-attachments/assets/96b1de82-d3b8-4c04-bc8e-b9fdcc37c1d1"/>|[Bluetooth IOT devices](https://elainnovation.com/beacon-bluetooth/)|domotic|
+|<img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/fed37d12-9bee-4942-8ef8-ea5bdd25d3c8"/>|[Espressif](https://www.espressif.com/) devices microcontrollers chips and boards|domotic / GUI / robotic / server|
+|<img width="150" height="60" alt="image" src="https://github.com/user-attachments/assets/de73fa7c-1da3-4a02-ad24-b72585104d59"/>|[Raspberry](https://www.raspberrypi.com/) devices microcomputers and microcontrollers|domotic / GUI / robotic / server|
+|<img width="150" height="50" alt="image" src="https://github.com/user-attachments/assets/b8d1c6d6-24db-44c3-b4e1-af630ec430a6"/>|[Microchip](https://www.microchip.com/) devices microcontrollers chips|domotic / DSP|
+|<img width="80" height="50" alt="image" src="https://github.com/user-attachments/assets/53d30172-c505-4106-b5d2-8b999d8edc07"/>|[SIMCom](https://www.simcom.com/) cellular processors|domotic / server|
+|<img width="150" height="100" alt="image" src="https://github.com/user-attachments/assets/74610f46-20c7-47a3-9fd3-77a4bb94e1f7" />|[SONOFF](https://sonoff.tech/fr-fr) Zigbee IOT devices|domotic|
 |`stm`|[Microcontrollers chips and boards](https://www.st.com/content/st_com/en.html)|domotic / GUI|
 
 #### 🛠️ TOOLS

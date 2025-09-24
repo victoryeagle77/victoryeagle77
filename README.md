@@ -1,6 +1,6 @@
 # PROFIL
 
-Here are my interests and skills related to IT development, electronic design, and more generally to new technologies, especially open source.
+Here are my interests and skills related to computer development, electronic design, new technologies (especially open source), as well as the application that I was able to make of them.
 
 #### 📱 DEVELOPMENT
 

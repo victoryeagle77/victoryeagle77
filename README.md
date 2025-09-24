@@ -46,4 +46,4 @@ Hi there 👋
 |`microchip`|[Microcontrollers chips and boards](https://www.microchip.com/)|domotic / DSP|
 |`simcom`|[Cellular processors](https://www.simcom.com/)|domotic / server|
 |`sonoff`|[Zigbee IOT devices](https://sonoff.tech/fr-fr)|domotic|
-|`stm`|[Microcontrollers chips and boards](https://www.st.com/content/st_com/en.html)|domotic|
+|`stm`|[Microcontrollers chips and boards](https://www.st.com/content/st_com/en.html)|domotic / GUI|

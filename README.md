@@ -1,11 +1,14 @@
 # PROFIL
 
-Here are my interests and skills related to computer development, electronic design, new technologies (especially open source), as well as the application that I was able to make of them.
+Here are my interests and skills related to computer development, electronic design, new technologies (especially open source), in table form.
+- `Technology`: Defines what was used or mastered (system, language, device or software).
+- `Description`: Brief description of the interest or acquired skill.
+- `Application`: Defines where or in what context I applied the following technologies or languages.
 
 #### 📱 DEVELOPMENT
 
-|_Language_|_Description_|_Application_|
-|:--------:|-------------|-------------|
+|_Technology_|_Description_|_Application_|
+|:----------:|-------------|-------------|
 |<img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/1bda40b4-629e-4fa4-9e52-c37bd01d2d68"/>|[Arduino](https://docs.arduino.cc/language-reference/) for baremetal programming on microcontrollers|Embedded / Software|
 |<img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/9503b175-d74c-46ff-b807-3a0072dcd200"/>|[Assembly](https://asm-docs.microagi.org/risc-v/riscv-asm.html) language for RISC-V processor architecture|Embedded / Software|
 |<img width="35" height="40" alt="image" src="https://github.com/user-attachments/assets/66b6b299-5959-4e44-85a4-54f6b84b200f"/>|[C](https://www.c-language.org/) language for various software, operating system and embedded system development|API / Embedded / GUI / Software|
@@ -23,8 +26,8 @@ Here are my interests and skills related to computer development, electronic des
 
 #### 💻 HARDWARE
 
-|_Device_|_Description_|_Application_|
-|:------:|-------------|-------------|
+|_Technology_|_Description_|_Application_|
+|:----------:|-------------|-------------|
 |<img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/4de12e16-3535-4ccb-a299-eb8f1fd2bab9" />|[ELA](https://elainnovation.com/beacon-bluetooth/) bluetooth IoT devices|Domotic|
 |<img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/fed37d12-9bee-4942-8ef8-ea5bdd25d3c8"/>|[Espressif](https://www.espressif.com/) devices microcontrollers chips and boards|Domotic / GUI / Robotic / Server|
 |<img width="35" height="40" alt="image" src="https://github.com/user-attachments/assets/e61a925d-1515-44fe-bf92-d0363023933d"/>|[Raspberry](https://www.raspberrypi.com/) devices microcomputers and microcontrollers|Domotic / GUI / Robotic / Server|
@@ -34,10 +37,10 @@ Here are my interests and skills related to computer development, electronic des
 |<img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/b35a07af-0276-462f-adde-ac56aa10e0f0"/>|[Sonoff](https://sonoff.tech/fr-fr) zigbee IoT devices|Domotic|
 |<img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/c5510aa4-d4dc-47b3-8f2d-d1853e6824cb"/>|[STMicro](https://www.st.com/content/st_com/en.html) microcontrollers chips and boards|Domotic / GUI|
 
-#### 🛠️ TOOLS
+#### 🛠️ SOFTWARE
 
-|_Software_|_Description_|_Application_|
-|:--------:|-------------|-------------|
+|_Technology_|_Description_|_Application_|
+|:----------:|-------------|-------------|
 |<img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/a9840a71-52be-480f-9dc7-c90134a6dc51"/>|[Home Assistant](https://www.home-assistant.io/) is an open source home automation that puts local control and privacy first|Domotic|
 |<img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/71977923-84bc-42fc-b5b1-663c569612ea"/>|[QT Creator](https://doc.qt.io/qtcreator/) is a integrated development environment designed for developing graphics applications and software using the Qt framework kit|GUI / Software|
 |<img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/3d98a866-b92a-4d3d-9f83-cb7ca1d70cc7"/>|[MQTT](https://mqtt.org/) is standard messaging protocol for the IoT, and designed as an extremely lightweight publish/subscribe messaging transport|Software|

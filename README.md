@@ -2,7 +2,7 @@
 
 Here are my interests and skills related to IT development, electronic design, and more generally to new technologies, especially open source.
 
-### 📱 DEV
+### 📱 DEVELOPMENT
 
 |LANGUAGES|DOMAIN|APPLICATION|
 |---------|------|-----------|

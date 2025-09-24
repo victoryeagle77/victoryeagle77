@@ -11,14 +11,14 @@ Here are my interests and skills related to IT development, electronic design, a
 |<img width="35" height="40" alt="image" src="https://github.com/user-attachments/assets/80def4d8-9574-4f5e-b540-2a1d2afca811"/>|[C++](https://isocpp.org/) language for various software, operating system and embedded system development|API / GUI / software|
 |<img width="30" height="50" alt="image" src="https://github.com/user-attachments/assets/6dc27b3b-6ea6-4013-8268-88c3ad6fcc1c"/>|programming|api / gui / software|
 |<img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/9503b175-d74c-46ff-b807-3a0072dcd200"/>|[Assembly](https://asm-docs.microagi.org/risc-v/riscv-asm.html) for RISC-V processor architecture|embedded / software|
-|<img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/096c8a80-e807-43d5-9951-ac368357b099"/>|Rust for various software and operating system development|API / GUI / software|
+|<img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/096c8a80-e807-43d5-9951-ac368357b099"/>|[Rust](https://www.rust-lang.org/) for various software and operating system development|API / GUI / software|
 |<img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/b33bcba4-91f3-4559-adc5-aab5be5fe846"/>|VHDL to design and implement electric schematic for FPGA|embedded / design|
-|<img width="35" height="40" alt="image" src="https://github.com/user-attachments/assets/5ed31eae-2173-423d-b4ad-18f91696d047"/>|Bash to interact with Linux operating systems|software|
+|<img width="35" height="40" alt="image" src="https://github.com/user-attachments/assets/5ed31eae-2173-423d-b4ad-18f91696d047"/>|[Bash](https://www.gnu.org/software/bash/manual/bash.html) to interact with Linux operating systems|software|
 |<img width="35" height="35" alt="image" src="https://github.com/user-attachments/assets/5cb07708-57a0-418b-8488-07ddc47da12d"/>|Python|AI / API / software|
 |<img width="30" height="40" alt="image" src="https://github.com/user-attachments/assets/c52b130e-7036-4f52-930a-bdee67975473"/>|CSS for frontend style for WEB application and software|GUI / software|
 |<img width="30" height="40" alt="image" src="https://github.com/user-attachments/assets/e119836d-582d-4939-a85e-d7f8e77f597c"/>|HTML for frontend pages for WEB application and software|GUI / software|
 |<img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/8a5680e3-ba99-4270-8d2d-8cb05b6f781f"/>|JavaScript for dynamic interactions with user on WEB application and software|API / GUI / software|
-|<img width="50" height="40" alt="image" src="https://github.com/user-attachments/assets/2792d606-1302-44a5-a062-3f60ad55b73e" />|PHP for backend WEB application and software|software|
+|<img width="50" height="40" alt="image" src="https://github.com/user-attachments/assets/2792d606-1302-44a5-a062-3f60ad55b73e" />|[PHP](https://www.php.net/) for backend WEB application and software|software|
 |<img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/b4b96162-ed93-4110-946e-46a4d1661282"/>|JSON to handle data by formatting|software|
 |<img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/1e33d5d7-7b02-4033-8d1a-768a091693c6" />|SQLite for database system management|software|
 

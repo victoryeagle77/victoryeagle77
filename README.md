@@ -2,7 +2,7 @@
 
 Here are my interests and skills related to IT development, electronic design, and more generally to new technologies, especially open source.
 
-### 📱 DEVELOPMENT
+#### 📱 DEVELOPMENT
 
 |LANGUAGES|DOMAIN|APPLICATION|
 |---------|------|-----------|
@@ -22,7 +22,7 @@ Here are my interests and skills related to IT development, electronic design, a
 |[`php`](https://www.php.net/)|web|software|
 |[`sqlite`](https://sqlite.org/)|web|software|
 
-### 💻 HARDWARE
+#### 💻 HARDWARE
 
 |DEVICE|DESCRIPTION|APPLICATION|
 |------|-----------|-----------|
@@ -34,9 +34,10 @@ Here are my interests and skills related to IT development, electronic design, a
 |`sonoff`|[Zigbee IOT devices](https://sonoff.tech/fr-fr)|domotic|
 |`stm`|[Microcontrollers chips and boards](https://www.st.com/content/st_com/en.html)|domotic / GUI|
 
-### 🛠️ SOFTWARE
+#### 🛠️ SOFTWARE
 
 |SOFTWARE|DESCRIPTION|APPLICATION|
 |--------|-----------|-----------|
 |`ads`|[Advanced Design System](https://www.keysight.com/us/en/products/software/pathwave-design-software/pathwave-advanced-design-system.html) provides a complete workflow for the design of Quantum Superconducting circuits, amplifiers, and systems|design|
-|`vscode`|[Visual Stduio Code](https://code.visualstudio.com/) is an extensible code editor providing many plugins for as [PlatformIO](https://platformio.org/) and many others for various application fields|design / embedded / software|
+|`qt`|[QT Creator](https://doc.qt.io/qtcreator/) is a powerful integrated development environment designed for developing applications using the Qt application framework. It provides a comprehensive set of tools for designing, coding, debugging, and deploying applications across various platforms|GUI|
+|`vscode`|[Visual Stduio Code](https://code.visualstudio.com/) is an extensible integrated development environment providing many plugins for as [PlatformIO](https://platformio.org/) and many others for various application fields|design / embedded / software|

@@ -2,39 +2,27 @@
 
 Here are my interests and skills related to IT development, electronic design, and more generally to new technologies, especially open source.
 
-## 📱 IT LANGUAGES
+### 📱 IT LANGUAGES
 
-#### PROGRAMMING
+|LANGUAGES|DOMAIN|APPLICATION|
+|---------|------|-----------|
+|[`arduino`](https://docs.arduino.cc/language-reference/)|programming|embedded / software|
+|`c`|programming|API / embedded / GUI / software|
+|[`c++`](https://isocpp.org/)|programming|API / GUI / software|
+|[`java`](https://www.java.com/fr/)|programming|api / gui / software|
+|[`asm risc-v`](https://asm-docs.microagi.org/risc-v/riscv-asm.html)|programming|embedded / software|
+|[`rust`](https://www.rust-lang.org/fr)|programming|API / GUI / software|
+|`vhdl`|programming|embedded / design|
+|[`bash`](https://www.gnu.org/software/bash/manual/bash.html)|scripting|software|
+|[`python`](https://www.python.org/)|scripting|AI / API / software|
+|`css`|web|GUI / software|
+|`html`|web|GUI / software|
+|`javascript`|web|API / GUI / software|
+|[`json`](https://www.json.org/json-fr.html)|web|software|
+|[`php`](https://www.php.net/)|web|software|
+|[`sqlite`](https://sqlite.org/)|web|software|
 
-|LANGUAGES|APPLICATION|
-|---------|-----------|
-|[`arduino`](https://docs.arduino.cc/language-reference/)|embedded / software|
-|`c`|API / embedded / GUI / software|
-|[`c++`](https://isocpp.org/)|API / GUI / software|
-|[`java`](https://www.java.com/fr/)|api / gui / software|
-|[`asm risc-v`](https://asm-docs.microagi.org/risc-v/riscv-asm.html)|embedded / software|
-|[`rust`](https://www.rust-lang.org/fr)|API / GUI / software|
-|`vhdl`|embedded / design|
-
-#### SCRIPTING
-
-|LANGUAGES|APPLICATION|
-|---------|-----------|
-|[`bash`](https://www.gnu.org/software/bash/manual/bash.html)|software|
-|[`python`](https://www.python.org/)|AI / API / software|
-
-#### WEB
-
-|LANGUAGES|APPLICATION|
-|---------|-----------|
-|`css`|GUI / software|
-|`html`|GUI / software|
-|`javascript`|API / GUI / software|
-|[`json`](https://www.json.org/json-fr.html)|software|
-|[`php`](https://www.php.net/)|software|
-|[`sqlite`](https://sqlite.org/)|software|
-
-## 💻 HARDWARE
+### 💻 HARDWARE
 
 |EQUIPMENT|DESCRIPTION|APPLICATION|
 |---------|-----------|-----------|
@@ -46,9 +34,9 @@ Here are my interests and skills related to IT development, electronic design, a
 |`sonoff`|[Zigbee IOT devices](https://sonoff.tech/fr-fr)|domotic|
 |`stm`|[Microcontrollers chips and boards](https://www.st.com/content/st_com/en.html)|domotic / GUI|
 
-## 🛠️ SOFTWARE
+### 🛠️ SOFTWARE
 
 |SOFTWARE|DESCRIPTION|APPLICATION|
 |--------|-----------|-----------|
 |`ads`|[Advanced Design System](https://www.keysight.com/us/en/products/software/pathwave-design-software/pathwave-advanced-design-system.html) provides a complete workflow for the design of Quantum Superconducting circuits, amplifiers, and systems|design|
-|`vscode`|[Visual Stduio Code](https://code.visualstudio.com/) is an extensible code editor IDE|design / embedded / software|
+|`vscode`|[Visual Stduio Code](https://code.visualstudio.com/) is an extensible code editor providing many plugins for as [PlatformIO](https://platformio.org/) and many others for various application fields|design / embedded / software|

@@ -19,8 +19,8 @@ Here are my interests and skills related to IT development, electronic design, a
 |<img width="30" height="40" alt="image" src="https://github.com/user-attachments/assets/e119836d-582d-4939-a85e-d7f8e77f597c"/>|HTML for frontend pages for WEB application and software|GUI / software|
 |<img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/8a5680e3-ba99-4270-8d2d-8cb05b6f781f"/>|JavaScript for dynamic interactions with user on WEB application and software|API / GUI / software|
 |<img width="50" height="40" alt="image" src="https://github.com/user-attachments/assets/2792d606-1302-44a5-a062-3f60ad55b73e" />|[PHP](https://www.php.net/) for backend WEB application and software|software|
-|<img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/b4b96162-ed93-4110-946e-46a4d1661282"/>|JSON to handle data by formatting|software|
-|<img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/1e33d5d7-7b02-4033-8d1a-768a091693c6" />|SQLite for database system management|software|
+|<img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/b4b96162-ed93-4110-946e-46a4d1661282"/>|[JSON](https://www.json.org/json-fr.html) to handle data by formatting|software|
+|<img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/1e33d5d7-7b02-4033-8d1a-768a091693c6" />|[SQLite](https://sqlite.org/) for database system management|software|
 
 #### 💻 HARDWARE
 

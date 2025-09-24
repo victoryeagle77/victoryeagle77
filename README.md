@@ -42,4 +42,6 @@ Here are my interests and skills related to IT development, electronic design, a
 |`homeassistant`|[Home Assistant](https://www.home-assistant.io/) is an open source home automation that puts local control and privacy first. Powered by a worldwide community of tinkerers and DIY enthusiasts|domotic|
 |`qt`|[QT Creator](https://doc.qt.io/qtcreator/) is a powerful integrated development environment designed for developing applications using the Qt application framework. It provides a comprehensive set of tools for designing, coding, debugging, and deploying applications across various platforms|GUI / software|
 |`podman`|[Podman](https://podman.io/) allow to manage containers, pods, and images with Podman. Seamlessly work with containers and Kubernetes from your local environment|software|
+|`rhasspy`|[Rhasspy](https://github.com/rhasspy/rhasspy) is an offline private voice assistant for many human languages|domotic / server|
 |`vscode`|[Visual Stduio Code](https://code.visualstudio.com/) is an extensible integrated development environment providing many plugins for as [PlatformIO](https://platformio.org/) and many others for various application fields|API / design / embedded / software|
+

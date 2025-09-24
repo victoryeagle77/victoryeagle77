@@ -2,7 +2,7 @@
 
 Here are my interests and skills related to computer development, electronic design, new technologies (especially open source), in table form.
 - `Technology`: Defines what was used or mastered (system, language, device or software).
-- `Description`: Brief description of the interest or acquired skill.
+- `Description`: Brief description of the skill acquired or already put into practice.
 - `Application`: Defines where or in what context I applied the following technologies or languages.
 
 #### 📱 DEVELOPMENT

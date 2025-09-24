@@ -1,6 +1,5 @@
 # PROFIL
 
-Hi there 👋
 Here are my interests and skills related to IT development, electronic design, and more generally to new technologies, especially open source.
 
 ## IT LANGUAGES

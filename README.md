@@ -4,23 +4,23 @@ Here are my interests and skills related to IT development, electronic design, a
 
 #### 📱 DEVELOPMENT
 
-|LANGUAGES|DOMAIN|APPLICATION|
-|:-------:|------|-----------|
-|[`arduino`](https://docs.arduino.cc/language-reference/)|programming|embedded / software|
+|_Language_|_Description_|_Application_|
+|:--------:|-------------|-------------|
+|<img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/1bda40b4-629e-4fa4-9e52-c37bd01d2d68"/>|Arduino language intended to baremetal programming on microcontrollers|embedded / software|
 |`c`|programming|API / embedded / GUI / software|
 |[`c++`](https://isocpp.org/)|programming|API / GUI / software|
-|[`java`](https://www.java.com/fr/)|programming|api / gui / software|
+|<img width="30" height="50" alt="image" src="https://github.com/user-attachments/assets/6dc27b3b-6ea6-4013-8268-88c3ad6fcc1c"/>|programming|api / gui / software|
 |[`asm risc-v`](https://asm-docs.microagi.org/risc-v/riscv-asm.html)|programming|embedded / software|
-|[`rust`](https://www.rust-lang.org/fr)|programming|API / GUI / software|
-|`vhdl`|programming|embedded / design|
-|[`bash`](https://www.gnu.org/software/bash/manual/bash.html)|scripting|software|
-|[`python`](https://www.python.org/)|scripting|AI / API / software|
-|`css`|web|GUI / software|
-|`html`|web|GUI / software|
-|`javascript`|web|API / GUI / software|
-|[`json`](https://www.json.org/json-fr.html)|web|software|
-|[`php`](https://www.php.net/)|web|software|
-|[`sqlite`](https://sqlite.org/)|web|software|
+|<img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/096c8a80-e807-43d5-9951-ac368357b099"/>|Rust|API / GUI / software|
+|`vhdl`|VHDL to make electric design of FPGA schematic|embedded / design|
+|<img width="35" height="40" alt="image" src="https://github.com/user-attachments/assets/5ed31eae-2173-423d-b4ad-18f91696d047"/>|Bash to interact with Linux operating systems|software|
+|<img width="35" height="35" alt="image" src="https://github.com/user-attachments/assets/5cb07708-57a0-418b-8488-07ddc47da12d"/>|Python|AI / API / software|
+|<img width="30" height="40" alt="image" src="https://github.com/user-attachments/assets/c52b130e-7036-4f52-930a-bdee67975473"/>|CSS for frontend style for WEB application and software|GUI / software|
+|<img width="30" height="40" alt="image" src="https://github.com/user-attachments/assets/e119836d-582d-4939-a85e-d7f8e77f597c"/>|HTML for frontend pages for WEB application and software|GUI / software|
+|<img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/8a5680e3-ba99-4270-8d2d-8cb05b6f781f"/>|JavaScript for dynamic interactions with user on WEB application and software|API / GUI / software|
+|<img width="50" height="40" alt="image" src="https://github.com/user-attachments/assets/2792d606-1302-44a5-a062-3f60ad55b73e" />|PHP for backend WEB application and software|software|
+|<img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/b4b96162-ed93-4110-946e-46a4d1661282"/>|JSON to handle data by formatting|software|
+|<img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/1e33d5d7-7b02-4033-8d1a-768a091693c6" />|SQLite for database system management|software|
 
 #### 💻 HARDWARE
 

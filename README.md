@@ -24,7 +24,7 @@ Here are my interests and skills related to IT development, electronic design, a
 
 ### 💻 HARDWARE
 
-|EQUIPMENT|DESCRIPTION|APPLICATION|
+|DEVICE|DESCRIPTION|APPLICATION|
 |---------|-----------|-----------|
 |`ela`|[Bluetooth IOT devices](https://elainnovation.com/beacon-bluetooth/)|domotic|
 |`esp`|[Microcontrollers chips and boards](https://www.espressif.com/)|domotic / GUI / robotic / server|

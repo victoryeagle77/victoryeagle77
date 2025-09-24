@@ -39,5 +39,5 @@ Here are my interests and skills related to IT development, electronic design, a
 |SOFTWARE|DESCRIPTION|APPLICATION|
 |--------|-----------|-----------|
 |`ads`|[Advanced Design System](https://www.keysight.com/us/en/products/software/pathwave-design-software/pathwave-advanced-design-system.html) provides a complete workflow for the design of Quantum Superconducting circuits, amplifiers, and systems|design|
-|`qt`|[QT Creator](https://doc.qt.io/qtcreator/) is a powerful integrated development environment designed for developing applications using the Qt application framework. It provides a comprehensive set of tools for designing, coding, debugging, and deploying applications across various platforms|GUI|
-|`vscode`|[Visual Stduio Code](https://code.visualstudio.com/) is an extensible integrated development environment providing many plugins for as [PlatformIO](https://platformio.org/) and many others for various application fields|design / embedded / software|
+|`qt`|[QT Creator](https://doc.qt.io/qtcreator/) is a powerful integrated development environment designed for developing applications using the Qt application framework. It provides a comprehensive set of tools for designing, coding, debugging, and deploying applications across various platforms|GUI / software|
+|`vscode`|[Visual Stduio Code](https://code.visualstudio.com/) is an extensible integrated development environment providing many plugins for as [PlatformIO](https://platformio.org/) and many others for various application fields|API / design / embedded / software|

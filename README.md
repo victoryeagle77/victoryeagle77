@@ -37,7 +37,7 @@ Here are my interests and skills related to IT development, electronic design, a
   </tr>
   <tr>
     <td><img width="38" height="50" alt="image" src="https://github.com/user-attachments/assets/c1da4091-38d0-4947-82c5-1c5ad2d8f10e"/></td>
-    <td><a href="https://www.raspberrypi.com/">Raspberry</a> devices microcomputers and microcontrollers</td>
+    <td><a href="https://www.raspberrypi.com/">Raspberry Pi</a> devices microcomputers and microcontrollers</td>
     <td>domotic / GUI / robotic / server</td>
   </tr>
   <tr>

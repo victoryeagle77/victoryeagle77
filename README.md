@@ -44,6 +44,6 @@ Hi there 👋
 |`esp`|[Microcontrollers chips and boards](https://www.espressif.com/)|domotic / GUI / robotic / server|
 |`raspberry`|[Microcomputers and microcontrollers](https://www.raspberrypi.com/)|domotic / GUI / robotic / server|
 |`microchip`|[Microcontrollers chips and boards](https://www.microchip.com/)|domotic / DSP|
-|`simcom`|[Cellular processors](https://www.simcom.com/)|driver|
+|`simcom`|[Cellular processors](https://www.simcom.com/)|domotic / server|
 |`sonoff`|[Zigbee IOT devices](https://sonoff.tech/fr-fr)|domotic|
 |`stm`|[Microcontrollers chips and boards](https://www.st.com/content/st_com/en.html)|domotic|

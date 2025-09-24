@@ -2,7 +2,7 @@
 
 Here are my interests and skills related to IT development, electronic design, and more generally to new technologies, especially open source.
 
-## IT LANGUAGES
+## 📱 IT LANGUAGES
 
 #### PROGRAMMING
 
@@ -34,7 +34,7 @@ Here are my interests and skills related to IT development, electronic design, a
 |[`php`](https://www.php.net/)|software|
 |[`sqlite`](https://sqlite.org/)|software|
 
-## HARDWARE
+## 💻 HARDWARE
 
 #### EQUIPMENT
 

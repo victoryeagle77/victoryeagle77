@@ -6,12 +6,12 @@ Here are my interests and skills related to IT development, electronic design, a
 
 |_Language_|_Description_|_Application_|
 |:--------:|-------------|-------------|
-|<img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/1bda40b4-629e-4fa4-9e52-c37bd01d2d68"/>|Arduino language intended to baremetal programming on microcontrollers|embedded / software|
-|<img width="35" height="40" alt="image" src="https://github.com/user-attachments/assets/66b6b299-5959-4e44-85a4-54f6b84b200f"/>|C programming|API / embedded / GUI / software|
-|<img width="35" height="40" alt="image" src="https://github.com/user-attachments/assets/80def4d8-9574-4f5e-b540-2a1d2afca811"/>|C++ programming|API / GUI / software|
+|<img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/1bda40b4-629e-4fa4-9e52-c37bd01d2d68"/>|[Arduino](https://docs.arduino.cc/language-reference/) for baremetal programming on microcontrollers|embedded / software|
+|<img width="35" height="40" alt="image" src="https://github.com/user-attachments/assets/66b6b299-5959-4e44-85a4-54f6b84b200f"/>|C language for various software, operating system and embedded system development|API / embedded / GUI / software|
+|<img width="35" height="40" alt="image" src="https://github.com/user-attachments/assets/80def4d8-9574-4f5e-b540-2a1d2afca811"/>|[C++](https://isocpp.org/) language for various software, operating system and embedded system development|API / GUI / software|
 |<img width="30" height="50" alt="image" src="https://github.com/user-attachments/assets/6dc27b3b-6ea6-4013-8268-88c3ad6fcc1c"/>|programming|api / gui / software|
-|<img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/9503b175-d74c-46ff-b807-3a0072dcd200"/>|[Assembly](https://asm-docs.microagi.org/risc-v/riscv-asm.html) language for RISC-V processor architecture|embedded / software|
-|<img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/096c8a80-e807-43d5-9951-ac368357b099"/>|Rust|API / GUI / software|
+|<img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/9503b175-d74c-46ff-b807-3a0072dcd200"/>|[Assembly](https://asm-docs.microagi.org/risc-v/riscv-asm.html) for RISC-V processor architecture|embedded / software|
+|<img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/096c8a80-e807-43d5-9951-ac368357b099"/>|Rust for various software and operating system development|API / GUI / software|
 |<img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/b33bcba4-91f3-4559-adc5-aab5be5fe846"/>|VHDL to design and implement electric schematic for FPGA|embedded / design|
 |<img width="35" height="40" alt="image" src="https://github.com/user-attachments/assets/5ed31eae-2173-423d-b4ad-18f91696d047"/>|Bash to interact with Linux operating systems|software|
 |<img width="35" height="35" alt="image" src="https://github.com/user-attachments/assets/5cb07708-57a0-418b-8488-07ddc47da12d"/>|Python|AI / API / software|

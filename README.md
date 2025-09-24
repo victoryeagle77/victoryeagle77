@@ -5,7 +5,7 @@ Here are my interests and skills related to IT development, electronic design, a
 #### 📱 DEVELOPMENT
 
 |LANGUAGES|DOMAIN|APPLICATION|
-|---------|------|-----------|
+|:-------:|------|-----------|
 |[`arduino`](https://docs.arduino.cc/language-reference/)|programming|embedded / software|
 |`c`|programming|API / embedded / GUI / software|
 |[`c++`](https://isocpp.org/)|programming|API / GUI / software|
@@ -31,13 +31,13 @@ Here are my interests and skills related to IT development, electronic design, a
 |<img width="38" height="40" alt="image" src="https://github.com/user-attachments/assets/c1da4091-38d0-4947-82c5-1c5ad2d8f10e"/>|[Raspberry](https://www.raspberrypi.com/) devices microcomputers and microcontrollers|domotic / GUI / robotic / server|
 |<img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/7520c9d2-4d19-454a-afaf-4638e85394bc"/>|[Microchip](https://www.microchip.com/) devices microcontrollers chips|domotic / DSP|
 |<img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/53d30172-c505-4106-b5d2-8b999d8edc07"/>|[SIMCom](https://www.simcom.com/) cellular processors|domotic / server|
-|<img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/b35a07af-0276-462f-adde-ac56aa10e0f0"/>|[SONOFF](https://sonoff.tech/fr-fr) zigbee IOT devices|domotic|
+|<img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/b35a07af-0276-462f-adde-ac56aa10e0f0"/>|[Sonoff](https://sonoff.tech/fr-fr) zigbee IOT devices|domotic|
 |<img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/c5510aa4-d4dc-47b3-8f2d-d1853e6824cb"/>|[STMicro](https://www.st.com/content/st_com/en.html) microcontrollers chips and boards|domotic / GUI|
 
 #### 🛠️ TOOLS
 
 |SOFTWARE|DESCRIPTION|APPLICATION|
-|--------|-----------|-----------|
+|:------:|-----------|-----------|
 |`homeassistant`|[Home Assistant](https://www.home-assistant.io/) is an open source home automation that puts local control and privacy first. Powered by a worldwide community of tinkerers and DIY enthusiasts|domotic|
 |`qt`|[QT Creator](https://doc.qt.io/qtcreator/) is a powerful integrated development environment designed for developing applications using the Qt application framework. It provides a comprehensive set of tools for designing, coding, debugging, and deploying applications across various platforms|GUI / software|
 |`podman`|[Podman](https://podman.io/) allow to manage containers, pods, and images with Podman. Seamlessly work with containers and Kubernetes from your local environment|software|

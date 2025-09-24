@@ -50,4 +50,4 @@ Here are my interests and skills related to IT development, electronic design, a
 
 |SOFTWARE|DESCRIPTION|APPLICATION|
 |--------|-----------|-----------|
-|`ads`|[Advanced Design System](https://www.keysight.com/us/en/products/software/pathwave-design-software/pathwave-advanced-design-system.html)|design|
+|`ads`|[Advanced Design System](https://www.keysight.com/us/en/products/software/pathwave-design-software/pathwave-advanced-design-system.html) provides a complete workflow for the design of Quantum Superconducting circuits, amplifiers, and systems.|design|

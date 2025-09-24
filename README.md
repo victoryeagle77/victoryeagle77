@@ -24,48 +24,20 @@ Here are my interests and skills related to IT development, electronic design, a
 
 #### 💻 HARDWARE
 
-<table>
-  <tr>
-    <td><img width="40" height="50" alt="image" src="https://github.com/user-attachments/assets/4de12e16-3535-4ccb-a299-eb8f1fd2bab9"/></td>
-    <td><a href="https://elainnovation.com/beacon-bluetooth/">ELA</a> bluetooth IOT devices</td>
-    <td>domotic</td>
-  </tr>
-  <tr>
-    <td><img width="40" height="50" alt="image" src="https://github.com/user-attachments/assets/fed37d12-9bee-4942-8ef8-ea5bdd25d3c8"/></td>
-    <td><a href="https://www.espressif.com/">Espressif</a> devices microcontrollers chips and boards</td>
-    <td>domotic / GUI / robotic / server</td>
-  </tr>
-  <tr>
-    <td><img width="38" height="50" alt="image" src="https://github.com/user-attachments/assets/c1da4091-38d0-4947-82c5-1c5ad2d8f10e"/></td>
-    <td><a href="https://www.raspberrypi.com/">Raspberry Pi</a> devices microcomputers and microcontrollers</td>
-    <td>domotic / GUI / robotic / server</td>
-  </tr>
-  <tr>
-    <td><img width="40" height="50" alt="image" src="https://github.com/user-attachments/assets/7520c9d2-4d19-454a-afaf-4638e85394bc"/></td>
-    <td><a href="https://www.microchip.com/">Microchip</a> devices microcontrollers chips</td>
-    <td>domotic / DSP</td>
-  </tr>
-  <tr>
-    <td><img width="40" height="50" alt="image" src="https://github.com/user-attachments/assets/53d30172-c505-4106-b5d2-8b999d8edc07"/></td>
-    <td><a href="https://www.simcom.com/">SIMCom</a> cellular processors</td>
-    <td>domotic / server</td>
-  </tr>
-  <tr>
-    <td><img width="40" height="50" alt="image" src="https://github.com/user-attachments/assets/b35a07af-0276-462f-adde-ac56aa10e0f0"/></td>
-    <td><a href="https://sonoff.tech/fr-fr">Sonoff</a> zigbee IOT devices</td>
-    <td>domotic</td>
-  </tr>
-  <tr>
-    <td><img width="40" height="50" alt="image" src="https://github.com/user-attachments/assets/c5510aa4-d4dc-47b3-8f2d-d1853e6824cb"/></td>
-    <td><a href="https://www.st.com/content/st_com/en.html">STMicro</a> microcontrollers chips and boards</td>
-    <td>domotic / GUI</td>
-  </tr>
-</table>
+|_Device_|_Description_|_Application_|
+|:------:|-------------|-------------|
+|<img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/4de12e16-3535-4ccb-a299-eb8f1fd2bab9" />|[ELA](https://elainnovation.com/beacon-bluetooth/) bluetooth IOT devices|domotic|
+|<img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/fed37d12-9bee-4942-8ef8-ea5bdd25d3c8"/>|[Espressif](https://www.espressif.com/) devices microcontrollers chips and boards|domotic / GUI / robotic / server|
+|<img width="38" height="40" alt="image" src="https://github.com/user-attachments/assets/c1da4091-38d0-4947-82c5-1c5ad2d8f10e"/>|[Raspberry](https://www.raspberrypi.com/) devices microcomputers and microcontrollers|domotic / GUI / robotic / server|
+|<img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/7520c9d2-4d19-454a-afaf-4638e85394bc"/>|[Microchip](https://www.microchip.com/) devices microcontrollers chips|domotic / DSP|
+|<img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/53d30172-c505-4106-b5d2-8b999d8edc07"/>|[SIMCom](https://www.simcom.com/) cellular processors|domotic / server|
+|<img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/b35a07af-0276-462f-adde-ac56aa10e0f0"/>|[Sonoff](https://sonoff.tech/fr-fr) zigbee IOT devices|domotic|
+|<img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/c5510aa4-d4dc-47b3-8f2d-d1853e6824cb"/>|[STMicro](https://www.st.com/content/st_com/en.html) microcontrollers chips and boards|domotic / GUI|
 
 #### 🛠️ TOOLS
 
-|SOFTWARE|DESCRIPTION|APPLICATION|
-|:------:|-----------|-----------|
+|_Software_|_Description_|_Application_|
+|:--------:|-------------|-------------|
 |`homeassistant`|[Home Assistant](https://www.home-assistant.io/) is an open source home automation that puts local control and privacy first. Powered by a worldwide community of tinkerers and DIY enthusiasts|domotic|
 |`qt`|[QT Creator](https://doc.qt.io/qtcreator/) is a powerful integrated development environment designed for developing applications using the Qt application framework. It provides a comprehensive set of tools for designing, coding, debugging, and deploying applications across various platforms|GUI / software|
 |`podman`|[Podman](https://podman.io/) allow to manage containers, pods, and images with Podman. Seamlessly work with containers and Kubernetes from your local environment|software|

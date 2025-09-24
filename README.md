@@ -38,7 +38,6 @@ Here are my interests and skills related to IT development, electronic design, a
 
 |SOFTWARE|DESCRIPTION|APPLICATION|
 |--------|-----------|-----------|
-|`ads`|[Advanced Design System](https://www.keysight.com/us/en/products/software/pathwave-design-software/pathwave-advanced-design-system.html) provides a complete workflow for the design of Quantum Superconducting circuits, amplifiers, and systems|design|
 |`docker`|[Docker](https://docker.com) allow to build, share, run, and verify applications anywhere — without tedious environment configuration or management|software|
 |`homeassistant`|[Home Assistant](https://www.home-assistant.io/) is an open source home automation that puts local control and privacy first. Powered by a worldwide community of tinkerers and DIY enthusiasts|domotic|
 |`qt`|[QT Creator](https://doc.qt.io/qtcreator/) is a powerful integrated development environment designed for developing applications using the Qt application framework. It provides a comprehensive set of tools for designing, coding, debugging, and deploying applications across various platforms|GUI / software|

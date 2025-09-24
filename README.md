@@ -28,7 +28,7 @@ Here are my interests and skills related to IT development, electronic design, a
 |:------:|-------------|-------------|
 |<img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/4de12e16-3535-4ccb-a299-eb8f1fd2bab9" />|[ELA](https://elainnovation.com/beacon-bluetooth/) bluetooth IOT devices|domotic|
 |<img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/fed37d12-9bee-4942-8ef8-ea5bdd25d3c8"/>|[Espressif](https://www.espressif.com/) devices microcontrollers chips and boards|domotic / GUI / robotic / server|
-|<img width="38" height="40" alt="image" src="https://github.com/user-attachments/assets/c1da4091-38d0-4947-82c5-1c5ad2d8f10e"/>|[Raspberry](https://www.raspberrypi.com/) devices microcomputers and microcontrollers|domotic / GUI / robotic / server|
+|<img width="35" height="40" alt="image" src="https://github.com/user-attachments/assets/c1da4091-38d0-4947-82c5-1c5ad2d8f10e"/>|[Raspberry](https://www.raspberrypi.com/) devices microcomputers and microcontrollers|domotic / GUI / robotic / server|
 |<img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/7520c9d2-4d19-454a-afaf-4638e85394bc"/>|[Microchip](https://www.microchip.com/) devices microcontrollers chips|domotic / DSP|
 |<img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/53d30172-c505-4106-b5d2-8b999d8edc07"/>|[SIMCom](https://www.simcom.com/) cellular processors|domotic / server|
 |<img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/b35a07af-0276-462f-adde-ac56aa10e0f0"/>|[Sonoff](https://sonoff.tech/fr-fr) zigbee IOT devices|domotic|

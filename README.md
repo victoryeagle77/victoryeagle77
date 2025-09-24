@@ -47,3 +47,11 @@ Here are my interests and skills related to IT development, electronic design, a
 |`simcom`|[Cellular processors](https://www.simcom.com/)|domotic / server|
 |`sonoff`|[Zigbee IOT devices](https://sonoff.tech/fr-fr)|domotic|
 |`stm`|[Microcontrollers chips and boards](https://www.st.com/content/st_com/en.html)|domotic / GUI|
+
+## 🛠️ SOFTWARE
+
+#### EQUIPMENT
+
+|SKILL|DESCRIPTION|APPLICATION|
+|-----|-----------|-----------|
+|`ads`|[Advanced Design System](https://www.keysight.com/us/en/products/software/pathwave-design-software/pathwave-advanced-design-system.html)|design|

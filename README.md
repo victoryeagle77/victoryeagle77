@@ -31,7 +31,7 @@ Hi there 👋
 |`html`|GUI / software|
 |`javascript`|API / GUI / software|
 |[`json`](https://www.json.org/json-fr.html)|software|
-|`php`|software|
+|[`php`](https://www.php.net/)|software|
 |[`sqlite`](https://sqlite.org/)|software|
 
 ## HARDWARE

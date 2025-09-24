@@ -6,8 +6,8 @@ Here are my interests and skills related to IT development, electronic design, a
 
 #### PROGRAMMING
 
-|SKILL|APPLICATION|
-|-----|-----------|
+|LANGUAGES|APPLICATION|
+|---------|-----------|
 |[`arduino`](https://docs.arduino.cc/language-reference/)|embedded / software|
 |`c`|API / embedded / GUI / software|
 |[`c++`](https://isocpp.org/)|API / GUI / software|
@@ -18,15 +18,15 @@ Here are my interests and skills related to IT development, electronic design, a
 
 #### SCRIPTING
 
-|SKILL|APPLICATION|
-|-----|-----------|
+|LANGUAGES|APPLICATION|
+|---------|-----------|
 |[`bash`](https://www.gnu.org/software/bash/manual/bash.html)|software|
 |[`python`](https://www.python.org/)|AI / API / software|
 
 #### WEB
 
-|SKILL|APPLICATION|
-|-----|-----------|
+|LANGUAGES|APPLICATION|
+|---------|-----------|
 |`css`|GUI / software|
 |`html`|GUI / software|
 |`javascript`|API / GUI / software|
@@ -36,10 +36,8 @@ Here are my interests and skills related to IT development, electronic design, a
 
 ## 💻 HARDWARE
 
-#### EQUIPMENT
-
-|SKILL|DESCRIPTION|APPLICATION|
-|-----|-----------|-----------|
+|EQUIPMENT|DESCRIPTION|APPLICATION|
+|---------|-----------|-----------|
 |`ela`|[Bluetooth IOT devices](https://elainnovation.com/beacon-bluetooth/)|domotic|
 |`esp`|[Microcontrollers chips and boards](https://www.espressif.com/)|domotic / GUI / robotic / server|
 |`raspberry`|[Microcomputers and microcontrollers](https://www.raspberrypi.com/)|domotic / GUI / robotic / server|
@@ -50,8 +48,6 @@ Here are my interests and skills related to IT development, electronic design, a
 
 ## 🛠️ SOFTWARE
 
-#### EQUIPMENT
-
-|SKILL|DESCRIPTION|APPLICATION|
-|-----|-----------|-----------|
+|SOFTWARE|DESCRIPTION|APPLICATION|
+|--------|-----------|-----------|
 |`ads`|[Advanced Design System](https://www.keysight.com/us/en/products/software/pathwave-design-software/pathwave-advanced-design-system.html)|design|

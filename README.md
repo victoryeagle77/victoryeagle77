@@ -28,7 +28,7 @@ Here are my interests and skills related to IT development, electronic design, a
 |------|-----------|-----------|
 |`ela`|[Bluetooth IOT devices](https://elainnovation.com/beacon-bluetooth/)|domotic|
 |`esp`|[Microcontrollers chips and boards](https://www.espressif.com/)|domotic / GUI / robotic / server|
-|`raspberry`|[Microcomputers and microcontrollers](https://www.raspberrypi.com/)|domotic / GUI / robotic / server|
+|<img width="112" height="57" alt="image" src="https://github.com/user-attachments/assets/de73fa7c-1da3-4a02-ad24-b72585104d59"/>|[Raspberry](https://www.raspberrypi.com/) devices are microcomputers and microcontrollers|domotic / GUI / robotic / server|
 |`microchip`|[Microcontrollers chips and boards](https://www.microchip.com/)|domotic / DSP|
 |`simcom`|[Cellular processors](https://www.simcom.com/)|domotic / server|
 |`sonoff`|[Zigbee IOT devices](https://sonoff.tech/fr-fr)|domotic|

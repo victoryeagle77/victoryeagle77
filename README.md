@@ -28,7 +28,7 @@ Here are my interests and skills related to computer development, electronic des
 
 |_Technology_|_Description_|_Application_|
 |:----------:|-------------|-------------|
-|<img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/4de12e16-3535-4ccb-a299-eb8f1fd2bab9" />|[ELA](https://elainnovation.com/beacon-bluetooth/) bluetooth IoT devices|Domotic|
+|<img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/4de12e16-3535-4ccb-a299-eb8f1fd2bab9"/>|[ELA](https://elainnovation.com/beacon-bluetooth/) bluetooth IoT devices|Domotic|
 |<img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/fed37d12-9bee-4942-8ef8-ea5bdd25d3c8"/>|[Espressif](https://www.espressif.com/) devices microcontrollers chips and boards|Domotic / GUI / Robotic / Server|
 |<img width="35" height="40" alt="image" src="https://github.com/user-attachments/assets/e61a925d-1515-44fe-bf92-d0363023933d"/>|[Raspberry](https://www.raspberrypi.com/) devices microcomputers and microcontrollers|Domotic / GUI / Robotic / Server|
 |<img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/7520c9d2-4d19-454a-afaf-4638e85394bc"/>|[Microchip](https://www.microchip.com/) devices microcontrollers chips|Domotic|
@@ -41,7 +41,7 @@ Here are my interests and skills related to computer development, electronic des
 
 |_Technology_|_Description_|_Application_|
 |:----------:|-------------|-------------|
-|<img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/a9840a71-52be-480f-9dc7-c90134a6dc51"/>|[Home Assistant](https://www.home-assistant.io/) is an open source home automation that puts local control and privacy first|Domotic|
+|<img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/d3e2c1b6-72f0-44cd-8c9e-a434a433ef4e"/>|[Home Assistant](https://www.home-assistant.io/) is an open source home automation that puts local control and privacy first|Domotic|
 |<img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/71977923-84bc-42fc-b5b1-663c569612ea"/>|[QT Creator](https://doc.qt.io/qtcreator/) is a integrated development environment designed for developing graphics applications and software using the Qt framework kit|GUI / Software|
 |<img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/3d98a866-b92a-4d3d-9f83-cb7ca1d70cc7"/>|[MQTT](https://mqtt.org/) is standard messaging protocol for the IoT, and designed as an extremely lightweight publish/subscribe messaging transport|Software|
 |<img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/0d7a6453-c096-491b-892c-02a7b91d52cc"/>|[Podman](https://podman.io/) allow to manage containers, pods, and images with Podman. Seamlessly work with containers and Kubernetes from your local environment|Software|

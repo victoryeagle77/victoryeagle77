@@ -5,7 +5,7 @@ Here are my interests and skills related to computer development, electronic des
 - **Description** = Brief description of the skill acquired or already put into practice.
 - **Application** = Defines where or in what context I applied the following technologies or languages.
 
-#### 📱 DEVELOPMENT
+#### DEVELOPMENT
 
 |_Technology_|_Description_|_Application_|
 |:----------:|-------------|-------------|
@@ -24,7 +24,7 @@ Here are my interests and skills related to computer development, electronic des
 |<img width="35" height="35" alt="image" src="https://github.com/user-attachments/assets/5cb07708-57a0-418b-8488-07ddc47da12d"/>|[Python](https://www.python.org/) for various scripting in many application fields|AI / API / Software|
 |<img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/b33bcba4-91f3-4559-adc5-aab5be5fe846"/>|VHDL to design and implement electric schematic for FPGA|Embedded / Design|
 
-#### 💻 HARDWARE
+#### HARDWARE
 
 |_Technology_|_Description_|_Application_|
 |:----------:|-------------|-------------|
@@ -37,7 +37,7 @@ Here are my interests and skills related to computer development, electronic des
 |<img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/b35a07af-0276-462f-adde-ac56aa10e0f0"/>|[Sonoff](https://sonoff.tech/fr-fr) zigbee IoT devices|Domotic|
 |<img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/c5510aa4-d4dc-47b3-8f2d-d1853e6824cb"/>|[STMicro](https://www.st.com/content/st_com/en.html) microcontrollers chips and boards|Domotic / GUI|
 
-#### 🛠️ SOFTWARE
+#### SOFTWARE
 
 |_Technology_|_Description_|_Application_|
 |:----------:|-------------|-------------|

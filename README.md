@@ -30,7 +30,7 @@ Here are my interests and skills related to computer development, electronic des
 |:----------:|-------------|-------------|
 |<img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/4de12e16-3535-4ccb-a299-eb8f1fd2bab9"/>|[ELA](https://elainnovation.com/beacon-bluetooth/) bluetooth IoT devices|Domotic|
 |<img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/fed37d12-9bee-4942-8ef8-ea5bdd25d3c8"/>|[Espressif](https://www.espressif.com/) devices microcontrollers chips and boards|Domotic / GUI / Robotic / Server|
-|<img width="35" height="40" alt="image" src="https://github.com/user-attachments/assets/e61a925d-1515-44fe-bf92-d0363023933d"/>|[Raspberry](https://www.raspberrypi.com/) devices microcomputers and microcontrollers|Domotic / GUI / Robotic / Server|
+|<img width="35" height="40" alt="image" src="https://github.com/user-attachments/assets/e61a925d-1515-44fe-bf92-d0363023933d"/>|[Raspberry](https://www.raspberrypi.com/) devices microcomputers and microcontrollers|Domotic / GUI / Robotic / Server / VPN|
 |<img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/7520c9d2-4d19-454a-afaf-4638e85394bc"/>|[Microchip](https://www.microchip.com/) devices microcontrollers chips|Domotic|
 |<img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/114478fa-b5ca-40a7-9854-78ba77ac5a5b"/>|[Red Pitaya](https://redpitaya.com/) board used for signal acquisition|Server / VNA|
 |<img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/53d30172-c505-4106-b5d2-8b999d8edc07"/>|[SIMCom](https://www.simcom.com/) cellular processors|Domotic / Server|
